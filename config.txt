@@ -1,0 +1,16 @@
+Archivos=archivo1.txt
+Semillas=20887601 8876012 88760120 87601208 76012088
+Algoritmos=bl3 blk btabu vns
+Dimension=10
+Iteraciones=1000
+ProbCambio=30
+DiffRango=10
+RangoTabu=1
+TenenciaTabu=5
+IntervaloReinicializacion=5
+OscilacionEstrategica=50
+EntornosVNS=inicial aleatorio signo
+NumDecimales=4
+NumVecinos=3
+NumVecinosMin=4
+NumVecinosMax=10
